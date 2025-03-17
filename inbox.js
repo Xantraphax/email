@@ -2,32 +2,72 @@
 const loginData = {
     "user1": {
         "emails": [
-            { "subject": "Willkommen User1!", "from": "admin@example.com", "message": "Hallo User1, willkommen in deinem Postfach!" },
-            { "subject": "Wichtige Mitteilung", "from": "support@example.com", "message": "Bitte überprüfe deine letzten Aktivitäten." }
+            { 
+                "subject": "🔥 Willkommensgeschenk für dich!", 
+                "from": "mystery@darkweb.net", 
+                "message": "Glückwunsch, User1! 🎉 Du wurdest für ein geheimes Programm ausgewählt. Öffne die Datei im Anhang... Falls du dich traust. 🕵️‍♂️"
+            },
+            { 
+                "subject": "⚠ Systemwarnung! Verdächtige Aktivitäten erkannt!", 
+                "from": "security@cyberpolice.com", 
+                "message": "Wir haben ungewöhnliche Zugriffe von deinem Konto festgestellt. Warst du das? Falls nicht, ändere SOFORT dein Passwort!"
+            }
         ]
     },
     "user2": {
         "emails": [
-            { "subject": "Neues Update", "from": "admin@example.com", "message": "Hallo User2, es gibt ein neues Update!" },
-            { "subject": "Achtung!", "from": "alerts@example.com", "message": "Dein Postfach hat fast kein Speicherplatz mehr." }
+            { 
+                "subject": "💀 Hast du den Mut, die Wahrheit zu erfahren?", 
+                "from": "unknown@deepnet.org", 
+                "message": "Wir beobachten dich, User2. Deine IP wurde geloggt. Falls du dieses Spiel gewinnen willst, folge den Anweisungen in der nächsten Mail. ⏳"
+            },
+            { 
+                "subject": "🎮 Geheimmission freigeschaltet!", 
+                "from": "admin@undergroundgaming.net", 
+                "message": "Hallo User2! 🚀 Eine neue versteckte Mission ist für dich verfügbar. Finde den Code in einer der alten Nachrichten..."
+            }
         ]
     },
     "user3": {
         "emails": [
-            { "subject": "Woche in Review", "from": "admin@example.com", "message": "Hallo User3, hier ist dein wöchentlicher Bericht." },
-            { "subject": "Dein Konto", "from": "billing@example.com", "message": "Bitte prüfe deinen letzten Rechnungsauszug." }
+            { 
+                "subject": "🚀 Dein Zugang zum Elite-Club wurde genehmigt!", 
+                "from": "vip@anonymous.net", 
+                "message": "Herzlichen Glückwunsch, User3! Du hast die erste Prüfung bestanden. Logge dich mit deinem geheimen Token ein: ***XJ-9X7A***"
+            },
+            { 
+                "subject": "⚠ Letzte Warnung: Dein Konto wird gelöscht!", 
+                "from": "support@totallylegitbank.com", 
+                "message": "User3, wir haben festgestellt, dass dein Konto unsicher ist. Klicke auf diesen Link, um es zu sichern: [LINK ENTFERNT]"
+            }
         ]
     },
     "user4": {
         "emails": [
-            { "subject": "Neues Angebot!", "from": "offers@example.com", "message": "Exklusive Angebote nur für dich, User4!" },
-            { "subject": "Achtung", "from": "alerts@example.com", "message": "Achtung, dein Passwort wird bald ablaufen." }
+            { 
+                "subject": "💰 Du hast 1.000.000 Credits gewonnen!", 
+                "from": "lotto@darkweb.net", 
+                "message": "Herzlichen Glückwunsch! Dein Hacker-Skill wurde erkannt und du hast die Cyber-Lotterie gewonnen! 🤑 Fordere deinen Gewinn mit Code **HACK-2025** ein."
+            },
+            { 
+                "subject": "📢 Geheime Nachricht für User4!", 
+                "from": "whisper@anonymousmail.net", 
+                "message": "Du bist auserwählt! Der nächste Hinweis für das große Finale ist in einem alten Post versteckt... 📜"
+            }
         ]
     },
     "user5": {
         "emails": [
-            { "subject": "Woche in Review", "from": "admin@example.com", "message": "Hallo User5, hier ist dein wöchentlicher Bericht." },
-            { "subject": "Neues Update verfügbar", "from": "updates@example.com", "message": "Lade jetzt das neue Update herunter!" }
+            { 
+                "subject": "👀 Ich weiß, was du letzte Woche getan hast!", 
+                "from": "hacker@unknownsource.org", 
+                "message": "Hey User5... Erinnerst du dich an dein letztes Login? Ich schon. Aber keine Sorge, ich könnte dir helfen. Interessiert? Schreibe mir zurück. 📩"
+            },
+            { 
+                "subject": "🔓 Sperriger Anhang – Passwort erforderlich!", 
+                "from": "securefiles@topsecret.net", 
+                "message": "Hier ist die Datei, die du gesucht hast. Sie ist verschlüsselt. Das Passwort könnte in einer alten Nachricht versteckt sein... 🔐"
+            }
         ]
     }
 };
