@@ -1,6 +1,6 @@
 {
-    "user1": { "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8" },
-    "user2": { "password": "7c6a180b36896a0a8c02787eeafb0e4c2c68da5a3d91f3a7f84c7c3a020b5da4" },
+    "alice98": { "password": "6010b9173c14b8c6aeedb265520d90e24f2321d2561557dcc59f07799f61324a" },
+    "bob23": { "password": "19513fdc9da4fb72a4a05eb66917548d3c90ff94d5419e1f2363eea89dfee1dd" },
     "user3": { "password": "9e107d9d372bb6826bd81d3542a419d6d6f7d5ab379413bac8f0ff48e0ce60af" },
     "user4": { "password": "2c9341ca4cf3d87b9e4eb905d9b34e4c8f7fcb3f9888ffbc3c0e6ef9e9e6e2a0" },
     "user5": { "password": "1b6453892473a467d07372d45eb05abc2031647a2fc3e1a54fdbf595f52cf3f2" }
