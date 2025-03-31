@@ -1,6 +1,6 @@
 // Fake-Datenbank für Mails
 const loginData = {
-    "user1": {
+    "alice98": {
         "emails": [
             { 
                 "subject": "🔥 Willkommensgeschenk für dich!", 
@@ -14,7 +14,7 @@ const loginData = {
             }
         ]
     },
-    "user2": {
+    "bob23": {
         "emails": [
             { 
                 "subject": "💀 Hast du den Mut, die Wahrheit zu erfahren?", 
